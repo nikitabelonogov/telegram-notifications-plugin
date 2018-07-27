@@ -1,6 +1,6 @@
 # TeleJenkins [![Build Status](https://ci.jenkins.io/job/Plugins/job/telegram-notifications-plugin/job/master/badge/icon)](https://ci.jenkins.io/job/Plugins/job/telegram-notifications-plugin/job/master/)
 
-![TeleJenkins Logo](https://raw.githubusercontent.com/nikitabelonogov/telegram-notifications-plugin/fb-svg-logo/telejenkins_logo.svg)
+![TeleJenkins Logo](https://raw.githubusercontent.com/nikitabelonogov/telegram-notifications-plugin/fb-svg-logo/telejenkins_logo.svg?sanitize=true)
 
 This plugin allows **Jenkins** to send notifications via **telegram** bot.
 
